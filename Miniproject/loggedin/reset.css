@@ -1,0 +1,18 @@
+body,img,figure,a,ul{
+    margin: 0ch;
+    margin-block-start: 0ch;
+    margin-block-end: 0ch;
+    margin-inline-end: 0ch;
+    scroll-margin-inline-end: 0ch;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-variant: normal;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-inline-start: 0ch;
+    text-align: left;
+    padding: 0;
+    white-space: normal;
+    
+}
